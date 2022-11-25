@@ -1,0 +1,23 @@
+{
+  "name": "npm-demo-pckg",
+  "version": "1.0.0",
+  "description": "A demo pacage for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bekircbc/npm-demo-pckg.git"
+  },
+  "keywords": [
+    "demo",
+    "npm-package"
+  ],
+  "author": "bekircbc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bekircbc/npm-demo-pckg/issues"
+  },
+  "homepage": "https://github.com/bekircbc/npm-demo-pckg#readme"
+}
